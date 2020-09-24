@@ -1,0 +1,160 @@
+{
+  "products": [
+    {
+      "name": "Fire",
+      "color": "red",
+      "price": 699,
+      "id": "ABC712878213",
+      "img": "hoodie-fire.png"
+    },
+    {
+      "name": "Ash",
+      "color": "grey",
+      "price": 699,
+      "id": "ABC71242378213",
+      "img": "hoodie-ash.png"
+    },
+    {
+      "name": "Ocean",
+      "color": "blue",
+      "price": 699,
+      "id": "ABC71286788213",
+      "img": "hoodie-ocean.png"
+    }
+  ],
+  "orders": [
+    {
+      "orderNr": "8ef193f1-f949-4b59-bb20-afefccf629c5",
+      "timeStamp": 1600786942370,
+      "items": [],
+      "totalOrderValue": 0
+    },
+    {
+      "orderNr": "8fe88aa7-d03c-4fd6-8469-315807a2c986",
+      "timeStamp": 1600937492312,
+      "items": [
+        {
+          "name": "Fire",
+          "color": "red",
+          "price": 699,
+          "id": "ABC712878213",
+          "img": "hoodie-fire.png"
+        },
+        {
+          "name": "Fire",
+          "color": "red",
+          "price": 699,
+          "id": "ABC712878213",
+          "img": "hoodie-fire.png"
+        },
+        {
+          "name": "Fire",
+          "color": "red",
+          "price": 699,
+          "id": "ABC712878213",
+          "img": "hoodie-fire.png"
+        },
+        {
+          "name": "Ash",
+          "color": "grey",
+          "price": 699,
+          "id": "ABC71242378213",
+          "img": "hoodie-ash.png"
+        },
+        {
+          "name": "Ash",
+          "color": "grey",
+          "price": 699,
+          "id": "ABC71242378213",
+          "img": "hoodie-ash.png"
+        }
+      ],
+      "totalOrderValue": 3495
+    },
+    {
+      "orderNr": "3f1b8af0-fe4b-4b80-851c-445b289d1843",
+      "timeStamp": 1600937543050,
+      "items": [
+        {
+          "name": "Fire",
+          "color": "red",
+          "price": 699,
+          "id": "ABC712878213",
+          "img": "hoodie-fire.png"
+        },
+        {
+          "name": "Ash",
+          "color": "grey",
+          "price": 699,
+          "id": "ABC71242378213",
+          "img": "hoodie-ash.png"
+        },
+        {
+          "name": "Ocean",
+          "color": "blue",
+          "price": 699,
+          "id": "ABC71286788213",
+          "img": "hoodie-ocean.png"
+        }
+      ],
+      "totalOrderValue": 2097
+    },
+    {
+      "orderNr": "19796bdf-674c-4f7e-8010-749024b7d268",
+      "timeStamp": 1600938586730,
+      "items": [
+        {
+          "name": "Fire",
+          "color": "red",
+          "price": 699,
+          "id": "ABC712878213",
+          "img": "hoodie-fire.png"
+        },
+        {
+          "name": "Fire",
+          "color": "red",
+          "price": 699,
+          "id": "ABC712878213",
+          "img": "hoodie-fire.png"
+        },
+        {
+          "name": "Fire",
+          "color": "red",
+          "price": 699,
+          "id": "ABC712878213",
+          "img": "hoodie-fire.png"
+        }
+      ],
+      "totalOrderValue": 2097
+    },
+    {
+      "orderNr": "64a2f82a-9e10-4de9-a50e-4de544113646",
+      "timeStamp": 1600939020711,
+      "items": [
+        {
+          "name": "Fire",
+          "color": "red",
+          "price": 699,
+          "id": "ABC712878213",
+          "img": "hoodie-fire.png"
+        },
+        {
+          "name": "Fire",
+          "color": "red",
+          "price": 699,
+          "id": "ABC712878213",
+          "img": "hoodie-fire.png"
+        },
+        {
+          "name": "Fire",
+          "color": "red",
+          "price": 699,
+          "id": "ABC712878213",
+          "img": "hoodie-fire.png"
+        }
+      ],
+      "totalOrderValue": 2097
+    }
+  ],
+  "count": 0
+}
